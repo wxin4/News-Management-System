@@ -1,7 +1,7 @@
 # News Management System (Python-SQL)
 A news managing project Of connecting SQL using Python. The whole system can do the following: adding users in editor type or admin type, adding or deleting news and users, and caching news into the database system.
 
-#What are the main languages
+# What are the main languages
 - Python
 - MySQL
 - Redis
